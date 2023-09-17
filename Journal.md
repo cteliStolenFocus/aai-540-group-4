@@ -5,3 +5,7 @@
 - Github Repo created
   - https://github.com/cteliStolenFocus/aai-540-group-4
 - Poll setup in Slack to identify project/model to work on
+
+## 09/16/2023
+- Working on Design Document for Week-2
+- Trying to setup a meeting for 9/17/2023
