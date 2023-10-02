@@ -9,3 +9,12 @@
 ## 09/16/2023
 - Working on Design Document for Week-2
 - Trying to setup a meeting for 9/17/2023
+
+## 09/28/2023
+- Create s3 bucket for data
+- Created Notebook Instance and setup for sharing🚡
+
+## 10/02/2023
+- Linked github repo in Sagemaker
+- Created notebook instance
+- Linked github repo to notebook instance
