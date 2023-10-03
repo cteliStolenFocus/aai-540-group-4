@@ -18,3 +18,4 @@
 - Linked github repo in Sagemaker
 - Created notebook instance
 - Linked github repo to notebook instance
+- Updated to use huggingface the pre-trained model
