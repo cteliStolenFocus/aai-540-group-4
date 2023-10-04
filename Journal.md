@@ -19,3 +19,6 @@
 - Created notebook instance
 - Linked github repo to notebook instance
 - Updated to use huggingface the pre-trained model
+
+## 10/04/2023
+- Added the jumpstart model to repo
