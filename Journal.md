@@ -22,3 +22,6 @@
 
 ## 10/04/2023
 - Added the jumpstart model to repo
+
+## 10/13/2023
+- Setting up a silverlight page in AWS

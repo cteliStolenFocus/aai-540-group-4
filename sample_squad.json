@@ -1,0 +1,22 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "University of San Diego",
+      "paragraphs": [
+        {
+          "qas": [],
+          "context": "The University of San Diego, often abbreviated as USD, is a private educational institution rooted in Roman Catholic traditions. Situated in San Diego, California, it was founded in the year 1949. The university boasts a wide array of undergraduate, graduate, and doctoral programs across diverse academic fields. Its campus is renowned for offering breathtaking views of the Pacific Ocean, and it showcases striking Spanish Renaissance-inspired architecture. A core philosophy of USD is the holistic development of its students, emphasizing not just academic growth but also personal development and leadership skills. This is evident in its push for students to engage in both extracurricular activities and community service. The University of San Diego is not just a place of learning; it aims to shape individuals who make a difference in society."
+        },
+        {
+          "qas": [],
+          "context": "One of the standout faculties at USD is its School of Business. Catering to students at various academic levels, from undergraduate to doctoral, the school fosters an environment of entrepreneurial thinking. It also prioritizes global awareness and champions the cause of social innovation. Thanks to its strong ties with San Diego's bustling business community, students at USD's School of Business often find themselves presented with a plethora of internship and employment opportunities. The school's curriculum and programs are tailored to prepare students for the challenges of the modern business world."
+        },
+        {
+          "qas": [],
+          "context": "The University of San Diego is not just about academics; it is deeply committed to environmental sustainability. With several of its campus buildings certified as green by the U.S. Green Building Council, USD showcases its dedication to environmentally friendly practices. The presence of solar panels and comprehensive recycling programs further underlines this commitment. Both students and faculty members actively participate in various sustainability drives and initiatives. Through these endeavors, the university strives to ensure its operations leave a minimal carbon footprint, fostering a healthy environment for future generations."
+        }
+      ]
+    }
+  ]
+}
